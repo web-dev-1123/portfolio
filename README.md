@@ -6,4 +6,4 @@ Figma design to Landing page
 - Wow.js
 
 # Vercel Deployed
-https://type-w.vercel.app/
+https://type-w.vercel.app
